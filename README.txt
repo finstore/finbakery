@@ -1,11 +1,13 @@
 
 TITLE: 
-Resto - 100% Fully Responsive HTML5 Bootstrap 4 Template for Restaurants
+Savory - 100% Fully Responsive Free HTML5 Bootstrap Template
 
 AUTHOR:
-DESIGNED & DEVELOPED by GetTemplates.co and FreeHTML5.co
+DESIGNED & DEVELOPED by GetTemplates.co
 
-Websites: https://gettemplates.co https://freehtml5.co/
+Website: http://gettemplates.co/
+Twitter: http://twitter.com/gettemplatesco
+Facebook: http://facebook.com/gettemplatesco
 
 
 CREDITS:
@@ -16,20 +18,47 @@ http://getbootstrap.com/
 jQuery
 http://jquery.com/
 
-OwlCarousel
-https://owlcarousel2.github.io/OwlCarousel2/
+jQuery Easing
+http://gsgd.co.uk/sandbox/jquery/easing/
 
-IsotopeSelect2
-https://select2.org
+Modernizr
+http://modernizr.com/
 
-Featherlight
-https://noelboss.github.io/featherlight/
+Google Fonts
+https://www.google.com/fonts/
 
-Stellar
+Icomoon
+https://icomoon.io/app/
+
+Themify Icons
+https://themify.me/themify-icons
+
+Respond JS
+https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
+
+animate.css
+http://daneden.me/animate
+
+jQuery Waypoint
+https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
+
+Owl Carousel
+http://www.owlcarousel.owlgraphic.com/
+
+jQuery countTo
+http://www.owlcarousel.owlgraphic.com/
+
+Magnific Popup
+http://dimsemenov.com/plugins/magnific-popup/
+
+MomentJS
+https://github.com/moment/moment
+
+Bootstrap DateTimePicker
+http://eonasdan.github.io/bootstrap-datetimepicker/
+
+Stellar Parallax
 http://markdalgleish.com/projects/stellar.js/
-
-Tempus Dominus
-https://tempusdominus.github.io/bootstrap-4/
 
 Demo Images:
 http://unsplash.com
